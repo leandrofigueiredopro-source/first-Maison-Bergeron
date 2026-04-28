@@ -1,0 +1,12 @@
+{
+  "name": "Maison Bergeron",
+  "description": "Boulangerie-pâtisserie artisanale d'exception à Paris. Flan élu 2ème meilleur de Paris 2025. Un écrin historique classé du début du XXème siècle.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Ecommerce",
+    "Real-time reviews",
+    "Click & Collect"
+  ]
+}
